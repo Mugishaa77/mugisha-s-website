@@ -1,3 +1,8 @@
+body {
+    background-color: #F2D7D9;
+}
+
+
 h1,
 h2,
 h3,
@@ -64,7 +69,7 @@ nav li.active a {
 }
 
 .hero {
-    background-color: #f9f7fe;
+    background-color: #F2D7D9;
     text-align: center;
     padding: 160px 20px;
 }
@@ -137,7 +142,7 @@ nav li.active a {
 .btn-branding {
     background: #6c63ff;
     border-radius: 4px;
-    color: white;
+    color:black;
     font-size: 18px;
     line-height: 27px;
     padding: 15px 30px;
@@ -174,15 +179,15 @@ footer {
 }
 
 footer .contact-box {
-    background-color: #f9f7fe;
+    background-color: #9ED2C6;
     padding: 30px 120px;
     border-radius: 10px;
 }
 
 footer .social-links a {
     margin: 0 20px;
-    color: #6c63ff;
-    background-color: #f9f7fe;
+    color: #FF6565;
+    background-color: #99FFCD;
     padding: 10px 14px;
     font-size: 18px;
     border-radius: 50%;
